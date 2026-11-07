@@ -1,0 +1,9 @@
+{
+  "name": "aura-gateway",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server providing pay-per-call AI travel itinerary aggregation and computer vision frame analysis on the Base network.",
+  "author": "Vincent Quainoo",
+  "homepage": "https://auragateway.app",
+  "sourceUrl": "https://auragateway.app",
+  "tags": ["travel", "itinerary", "vision", "m2m", "mcp", "base"]
+}
